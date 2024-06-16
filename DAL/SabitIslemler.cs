@@ -17,7 +17,7 @@ namespace Uygulama.DAL
 
         public static string TarihSaat = DateTime.Now.ToLongDateString() + " - " + DateTime.Now.ToLongTimeString(); 
 
-        public static string con_str = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Resources\Database.mdf;Integrated Security = True";
+        public static string con_str = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database.mdf;Integrated Security = True";
 
         public static SqlConnection _conn = new SqlConnection(SabitIslemler.con_str);
         public static void Connect()
