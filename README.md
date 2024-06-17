@@ -1,2 +1,2 @@
 # Dijital Satış Platformu
-Visual Studio Forms (.NET Framework 4.7.2) çatısı altında C# dilinde oluşturulmuş basit bir proje. SQL veritabanı ise projeye local olarak bağlı, SSMS ile importlamaya gerek kalmıyor.  
+Visual Studio Forms (.NET Framework 4.7.2) çatısı altında C# dilinde oluşturulmuş önlisans bitirme projem, proje temel olarak basit bir alışveriş platformunu baz almaktadır. Veritabanından çekilen ürün bilgileri ile alışveriş yapabilen kullanıcı ayrıca hesap oluşturup oturum açabiliyor. SQL veritabanı ise projeye local olarak bağlı, SSMS ile importlamaya gerek kalmıyor.  
